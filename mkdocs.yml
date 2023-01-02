@@ -56,7 +56,7 @@ copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence jur
 theme:
     language: fr
     palette:
-        primary: blue
+        primary: blue grey
         accent: green
         scheme: default
     logo: https://cdn-icons-png.flaticon.com/512/929/929467.png
