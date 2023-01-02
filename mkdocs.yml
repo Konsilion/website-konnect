@@ -71,8 +71,8 @@ theme:
 extra:
   generator: false
   homepage: https://konsilion.fr/pages/presentation/
-  katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "https://konsilion.github.io/website"
+  katalog_repo: "https://github.com/konsilion/website-konnect"
+  katalog_site: "https://konsilion.github.io/website-konnect"
 
 
 
@@ -99,5 +99,6 @@ markdown_extensions:
 extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
   - https://konsilion.fr/admin/css/colors.css
+  - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   
 # https://kit.fontawesome.com/f9666d4f53.js
