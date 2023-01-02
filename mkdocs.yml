@@ -70,7 +70,7 @@ theme:
 
 extra:
   generator: false
-  homepage: https://konsilion.fr
+  homepage: https://konsilion.fr/pages/presentation/
   katalog_repo: "https://github.com/konsilion/website"
   katalog_site: "https://konsilion.github.io/website"
 
